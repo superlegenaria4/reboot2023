@@ -1,6 +1,5 @@
 # reboot2023
-my first repository
+my first repository for reboot 1.0 in 2023.
+Just Learning How to do Things.
 
-## My first joke on github
-
-taco tuesday
+taco tuesday is awesome
